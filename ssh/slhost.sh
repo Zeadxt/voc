@@ -19,13 +19,13 @@ rm -f /root/domain
 #mkdir -p /etc/v2ray
 #echo "$SUB_DOMAIN" >> /etc/xray/domain
 #
-DOMAIN=tarong.my.id
+DOMAIN=freetunnel.biz.id
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c5)
 subsl=$(</dev/urandom tr -dc a-z0-9 | head -c5)
-SUB_DOMAIN=${sub}.tarong.my.id
-NS_DOMAIN=ns-${subsl}.tarong.my.id
-CF_ID=merahjambo@gmail.com
-CF_KEY=86431de017f7bf317c3960061da2f87c8effb
+SUB_DOMAIN=${sub}.freetunnel.biz.id
+NS_DOMAIN=ns-${subsl}.freetunnel.biz.id
+CF_ID=pribadi.no99@gmail.com
+CF_KEY=e706e0ce65fb5c6e233c233e6e2e6614d4aec
 set -euo pipefail
 IP=$(wget -qO- icanhazip.com);
 echo "Updating DNS for ${SUB_DOMAIN}..."
