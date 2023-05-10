@@ -6,12 +6,9 @@
 <hr>
 🚀 SEBELUM INSTALL SCRIPT HARAP DAFTARKAN DULU IP VPS KAMU 🚀
 <h2 align="center">
-🚀 KIRIM IP VPS KE SAYA LEWAT WA DI BAWAH INI  🚀
 
-https://api.whatsapp.com/send/?phone=6285754292950&text&type=phone_number&app_absent=0
-<h2><hr>
 <h2 align="center">
-🚀 Autoscript SSH XRAY Websocket Multiport By TARAP KUHING 🚀
+🚀 Autoscript SSH XRAY Websocket Multiport By FREE TUNNELING 🚀
 <h2><hr>
 
 <h2 align="center"> ♦️Supported Linux Distribution♦️</h2>
@@ -56,20 +53,20 @@ https://api.whatsapp.com/send/?phone=6285754292950&text&type=phone_number&app_ab
 🚀 Update VPS Kamu Dulu Sebelum Instal Script 🚀<br>
 
   ```html
- apt-get update && apt-get upgrade -y && reboot
+ apt-get update && apt-get upgrade -y 
    
   ```
 <h2 align="center">
-🚀 Installation Script By TARAP KUHING 🚀<br>
+🚀 Installation Script By FREE TUNNELING 🚀<br>
 
   ```html
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/Tarap-Kuhing/tarap/main/setup.sh && chmod +x setup.sh && ./setup.sh
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/Zeadxt/voc/main/ftp.sh && chmod +x ftp.sh && ./ftp.sh
  
   ```
 
 </b>
 <h2 align="center">
-## ⏩ AUTOSCRIPT MULLTIPORT 443 ⏪
+⏩ AUTOSCRIPT MULLTIPORT 443 ⏪
 <br>
 <br>
 <br>
